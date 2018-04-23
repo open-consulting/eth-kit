@@ -2,7 +2,7 @@
 
 ```
 # Run once
-make deps 
+make deps
 
 # Start local server
 make dev-server
@@ -11,4 +11,11 @@ make dev-server
 CONTRACT_NAME=Contract make deploy
 
 # Deploying to mainnet and testnet is WIP
+```
+
+### Utilities
+
+```
+# Get deployed smart contract addresses
+make address
 ```
