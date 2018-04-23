@@ -3,7 +3,7 @@
 ## Quick started
 
 ```
-https://github.com/economicnetwork/eth-toolkit && cd eth-toolkit && make deps && make dev-server
+git clone https://github.com/economicnetwork/eth-toolkit && cd eth-toolkit && make deps && make dev-server
 # After this runs successfully, open another terminal and deploy a test Contract
 CONTRACT_NAME=Contract make deploy
 ```
