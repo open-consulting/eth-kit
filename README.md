@@ -1,4 +1,4 @@
-# Simple tool to deploy smart contract
+# Simple tool to deploy smart contract for development
 
 ## Quick started
 
@@ -18,7 +18,6 @@ make dev-server
 # Deploy smart contract to local development
 CONTRACT_NAME=Contract make deploy
 
-# Deploying to mainnet and testnet is WIP
 ```
 
 ### Utilities
